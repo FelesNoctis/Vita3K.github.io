@@ -21,7 +21,7 @@ texts.push([
 	"Get in touch with the developers and other users whenever you want. We prefer via our Discord server, but the choice is up to you!", // 16
 	"Join now!", // 17
 	"Check out what currently runs!", // 18
-	"The emulator can run some <b>commercial games!</b><br>Check out their <a href=\"./compatibility.html?lang=en\">compatibility list<a>.<br><br>Several homebrew games are also supported. Check the <a href=\"compatibility-homebrew.html?lang=en\">homebrew compatibility list</a> for further details.", // 19
+	"The emulator can run some <b>commercial games!</b><br>Check out their <a href=\"compatibility.html?lang=en\">compatibility list<a>.<br><br>Several homebrew games are also supported. Check the <a href=\"compatibility-homebrew.html?lang=en\">homebrew compatibility list</a> for further details.", // 19
 	"Homebrew Game Port", // 20
 	"PlayStation and PS Vita are trademarks of Sony Interactive Entertainment Inc.", // 21
 	"The emulator is not related to or endorsed by Sony, or derived from confidential materials belonging to Sony.", // 22
